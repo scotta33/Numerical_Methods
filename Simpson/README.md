@@ -1,0 +1,1 @@
+# Simpsons's Rule Algorithm
