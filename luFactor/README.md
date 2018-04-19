@@ -8,4 +8,4 @@ luFactor.m is an aglorithm developed to perform the LU factorization of a square
 * U - This is the upper triangluar matrix that contains the Gauss elimination with partial pivoting of rows.
 * P - This is the identity matrix used to keep track of the row pivoting done during the Gauss Elimination.
 ## Other Information on luFactor.m
-luFactor.m will only accpet the input of one matrix at a time and the matrix must be square meaning that it hase the same number of rows and columns.
+luFactor.m will only accpet the input of one matrix at a time and the matrix must be square meaning that it has the same number of rows and columns.
